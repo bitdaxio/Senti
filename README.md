@@ -1,2 +1,2 @@
-# shsPool
-Shilingi Pool
+# SentiPool
+Senti Pool
